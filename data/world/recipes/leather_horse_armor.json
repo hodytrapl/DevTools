@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #L",
+        "LLL",
+        "LLL"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lead"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_horse_armor",
+        "count": 1
+    },
+    "group": "dev"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#c#",
+        "RiR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone"
+        },
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 1
+    },
+    "group": "dev"
+}

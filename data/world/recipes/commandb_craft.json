@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cIc",
+        "R#K",
+        "cLc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "I": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "R": {
+            "item": "minecraft:repeater"
+        },
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "K": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "L": {
+            "item": "minecraft:lever"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    },
+    "group": "dev"
+}

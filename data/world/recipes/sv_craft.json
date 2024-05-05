@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#C#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_stained_glass_pane"
+        },
+        "C": {
+            "item": "minecraft:cyan_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    },
+    "group": "dev"
+}

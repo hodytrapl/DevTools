@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #g",
+        "gLg",
+        "ggg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lead"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_horse_armor",
+        "count": 1
+    },
+    "group": "dev"
+}
